@@ -8,7 +8,7 @@ Challenge:
 	Try to bring something new to the table:
 	
 		+doesn't have to be big (though it can definitely be if you want it to)
-			+programming technique:
+			+programming techniques:
 				example:
 					How to do a list comprehension:
 						aList = [x for x in range(1,10,2)]
@@ -17,7 +17,7 @@ Challenge:
 			+a statistical technique
 			+an interesting library
 			+a handy website that you like to use as reference, etc.
-			+a book you think is a good read that you could help on a project or give ideas; 
+			+a book you think is a good read that could help on a project or give ideas; 
 			 especially if it's at the intro-level for people unfamiliar with certain concepts
 			 	examples:
 					-math
