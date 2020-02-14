@@ -241,7 +241,7 @@ Python:
 
 Videos
 
-https://www.youtube.com/watch?v=JIo-V0beaBw - The Future of Your Personal Data - Privacy vs. Monetization
+https://www.youtube.com/watch?v=f1JPjLCxPFQ - Designing Technology to Restore Privacy
 
 ----------------------------------------
 
