@@ -2,9 +2,11 @@
 Helpful Resources for Using Data Among Other such Activites with Python
 
 Python Data Science Club - Running List
-
+----------------------------------------
 Challenge: 
-	Try to bring something new to the table: 
+
+	Try to bring something new to the table:
+	
 		+doesn't have to be big (though it can definitely be if you want it to)
 		+example: showing how to do a list comprehension
 				aList = [x for x in range(1,10,2)]
@@ -13,38 +15,45 @@ Challenge:
 		+an interesting library
 		+a programming, math, or stats book you think is a good read; especially
 		 if they're at the intro-level for people unfamiliar with certain concepts
-     +a handy website that you like to use as reference, etc.
+     		+a handy website that you like to use as reference, etc.
 
+----------------------------------------
 Books:
+
 https://r4ds.had.co.nz/index.html
 
+----------------------------------------
 Useful Websites:
+
 http://www.rdatamining.com/
 
+----------------------------------------
 DataSet Resources:
-https://archive.ics.uci.edu/ml/index.php
-https://storage.googleapis.com/books/ngrams/books/datasetsv2.html
-https://trends.google.com/trends/explore
-https://healthdata.gov/
-https://developers.facebook.com/docs/graph-api
-https://registry.opendata.aws/
-https://data.europa.eu/euodp/en/data/
-https://www.data.gov/
-https://datahub.io/search
-https://lod-cloud.net/
-https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm
-https://www.ssa.gov/OACT/babynames/limits.html
-https://www.who.int/data/gho
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Complete_Shakespeare_wordlist
-https://www.kaggle.com/datasets
-https://snap.stanford.edu/data/
-https://seer.cancer.gov/popdata/download.html
-https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html
-http://web.mta.info/developers/turnstile.html
 
+https://archive.ics.uci.edu/ml/index.php -UC-Irvine's Machine Learning Repository
+https://storage.googleapis.com/books/ngrams/books/datasetsv2.html -Google N-Gram Viewer
+https://trends.google.com/trends/explore -Google rends
+https://healthdata.gov/ -Health Data from US government
+https://developers.facebook.com/docs/graph-api -Facebook Graph API
+https://registry.opendata.aws/ -Amazon Web Services Open Data
+https://data.europa.eu/euodp/en/data/ -European Union Open Data
+https://www.data.gov/ -US Government Open Data
+https://datahub.io/search - Datahub.io
+https://lod-cloud.net/ -The Linked Open Data Cloud
+https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm -Securities Exchange Commision Edgar Data
+https://www.ssa.gov/OACT/babynames/limits.html -Social Security Baby Names Datasets
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Complete_Shakespeare_wordlist -Complete Shakespeare Word List
+https://www.kaggle.com/datasets -Kaggle.com
+https://snap.stanford.edu/data/ -Stanford Large Network Dataset
+https://seer.cancer.gov/data-software/datasets.html -Cancer.gov
+https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html -NIH Datasets
+http://web.mta.info/developers/turnstile.html -New York City Metro Turnstile Datasets
+
+----------------------------------------
 Helpful or Interesting Libraries:
 
-Library Name - Uses, Subject Matter, etc. - Commments (if any)
+Library Name, Uses, Subject Matter, etc. - Commments (if any)
+
 -sqlite3 - databases
 -json - working with JSON files
 -matplotlib - graphing, data visualization
@@ -61,7 +70,9 @@ Library Name - Uses, Subject Matter, etc. - Commments (if any)
 -csv - working with csv files
 -plotly - data visualization, animation, interactivity
 
-Possible Topics of Discovery with Python:
+----------------------------------------
+Possible Topics of Discovery and Project Ideas with Python:
+
 -an overview of Linux commands and setting a Linux virtual machine
 -a possible venture into emacs
 -regular expessions
@@ -79,3 +90,7 @@ Possible Topics of Discovery with Python:
 -a look at statistical models that can be used with python libraries
 -an overview of basic webscraping with review of html structure such as going through 
  wikipedia pages for images, tables, etc.
+
+----------------------------------------
+#c new material if your willing to add
+#c NOTE: #c - we can use these to denote commments
