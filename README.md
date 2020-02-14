@@ -67,6 +67,8 @@ https://open.umn.edu/opentextbooks/subjects - Open Textbook Library
 
 https://archive.org/ - Internet Archive
 
+https://www.reddit.com/r/statistics/ - Reddit Statistics
+
 ----------------------------------------
 DataSet Resources:
 
