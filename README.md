@@ -166,6 +166,7 @@ Possible Topics of Discovery and Project Ideas with Python:
 Programming Techniques:
 
 -How to Do a List Comprehension:
+
 	aList = [x for x in range(1,10,2)]
 	
 ----------------------------------------
