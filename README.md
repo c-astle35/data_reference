@@ -194,6 +194,8 @@ Library Name, Uses, Subject Matter, etc. - Commments (if any)
 ----------------------------------------
 Possible Topics of Discovery and Project Ideas with Python, etc.:
 	
+	-exercises demonstrating numpy's cabilities with linear algebraic computations
+	
 	-reviewing potential algorithms for financial trading
 
 	-an overview of Linux commands and setting a Linux virtual machine
