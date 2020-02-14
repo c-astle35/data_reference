@@ -28,6 +28,7 @@ Challenge:
 					-data science
 					-etc.
 			#c Please be sure to place the book in a new genre if it doesn't fit in one that's listed below
+			#c If you feel like there needs to be a subgenre in a genre, do that to for clarification
 
 ----------------------------------------
 Books:
