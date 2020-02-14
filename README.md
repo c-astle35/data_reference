@@ -42,6 +42,8 @@ Progamming:
 	Python:
 		NSA Python Teaching Module - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 		
+		The Hitchhiker's Guide to Python - https://docs.python-guide.org/
+		
 Math:
 
 	Probability:
@@ -190,6 +192,14 @@ Library Name, Uses, Subject Matter, etc. - Commments (if any)
 	-csv - working with csv files
 
 	-plotly - data visualization, animation, interactivity
+	
+	-PIL - Python Imaging Library
+	
+	-cv2 - OpenCV, open source computer vision
+	
+	-pathlib - object-oriented filesystem paths
+	
+	-os - pathname manipulations
 
 ----------------------------------------
 Possible Topics of Discovery and Project Ideas with Python, etc.:
