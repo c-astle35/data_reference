@@ -16,6 +16,7 @@ Challenge:
 			+a programming technique
 			+a statistical technique
 			+an interesting library
+			+a handy website that you like to use as reference, etc.
 			+a book you think is a good read that you could help on a project or give ideas; 
 			 especially if it's at the intro-level for people unfamiliar with certain concepts
 			 	examples:
@@ -27,7 +28,6 @@ Challenge:
 					-data science
 					-etc.
 			#c Please be sure to place the book in a new genre if it doesn't fit in one that's listed below
-     		+a handy website that you like to use as reference, etc.
 
 ----------------------------------------
 Books:
