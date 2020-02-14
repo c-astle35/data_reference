@@ -8,19 +8,42 @@ Challenge:
 	Try to bring something new to the table:
 	
 		+doesn't have to be big (though it can definitely be if you want it to)
-		+example: showing how to do a list comprehension
-				aList = [x for x in range(1,10,2)]
-		+a dataset you thought was interesting
-		+a statistical technique
-		+an interesting library
-		+a programming, math, or stats book you think is a good read; especially
-		 if they're at the intro-level for people unfamiliar with certain concepts
+			+programming technique:
+				example:
+					How to do a list comprehension:
+						aList = [x for x in range(1,10,2)]
+			+a dataset you thought was interesting
+			+a programming technique
+			+a statistical technique
+			+an interesting library
+			+a book you think is a good read that you could help on a project or give ideas; 
+			 especially if it's at the intro-level for people unfamiliar with certain concepts
+			 	examples:
+					-math
+					-stats
+					-finance
+					-agricultural economics
+					-econometrics
+					-data science
+					-etc.
+			#c Please be sure to place the book in a new genre if it doesn't fit in one that's listed below
      		+a handy website that you like to use as reference, etc.
 
 ----------------------------------------
 Books:
 
-https://r4ds.had.co.nz/index.html
+Data Science:
+
+	R for Data Science - https://r4ds.had.co.nz/index.html
+	
+Progamming:
+
+	Python:
+		NSA Python Teaching Module - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+		
+Math:
+
+	Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
 
 ----------------------------------------
 Useful Websites:
@@ -138,6 +161,15 @@ Possible Topics of Discovery and Project Ideas with Python:
  -programming with pyspark on Apache Spark
 
 ----------------------------------------
+
+Programming Techniques:
+
+-How to Do a List Comprehension:
+	aList = [x for x in range(1,10,2)]
+	
+----------------------------------------
+NOTES and COMMENTS:
+
 #c new material if your willing to add
 
 #c NOTE: #c - we can use these to denote commments
