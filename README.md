@@ -206,12 +206,28 @@ Programming Techniques:
 		aList = [x for x in range(1,10,2)]
 
 ----------------------------------------
-Meeting Schedule and Discussion Topics:
+Meeting Schedule, Discussion Topics, Preparation Material and Additional Reads(if any):
 	
 	
 ----------------------------------------
 NOTES and COMMENTS:
 
-#c Once again, please be willing to share any new material if your willing
+#c 
 
-#c NOTE: #c - we can use this to denote commments
+Once again, please be willing to share any new material if your open,
+announcing edits by email could also help people know about updates, 
+new stuff, prepar
+
+#c
+
+#c
+
+NOTE: #c - we can use this to denote commments
+
+#c
+
+#c
+
+HELP WANTED: If someone would be willing to help, organization of datasets, programming techniques, idea types, libraries, etc. by topic could most certainly help in keeping this list going and somewhat clean.
+
+#c
