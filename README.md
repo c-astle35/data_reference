@@ -44,17 +44,15 @@ Progamming:
 		
 Math:
 
-	Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
+	Probability:
+		Introduction to Probability - https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
+	
+	Applied:
+		Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
 
 Geographic Information Systems:
 	
 	Basic Geodesy - https://geodesy.noaa.gov/PUBS_LIB/basgeo.pdf
-
-Probability:
-	
-	Introduction to Probability - https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
-
-
 
 ----------------------------------------
 Useful Websites:
