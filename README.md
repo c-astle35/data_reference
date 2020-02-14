@@ -54,41 +54,59 @@ http://www.rdatamining.com/
 ----------------------------------------
 DataSet Resources:
 
-https://archive.ics.uci.edu/ml/index.php -UC-Irvine's Machine Learning Repository
+https://archive.ics.uci.edu/ml/index.php 
+-UC-Irvine's Machine Learning Repository
 
-https://storage.googleapis.com/books/ngrams/books/datasetsv2.html -Google N-Gram Viewer
+https://storage.googleapis.com/books/ngrams/books/datasetsv2.html 
+-Google N-Gram Viewer
 
-https://trends.google.com/trends/explore -Google rends
+https://trends.google.com/trends/explore 
+-Google rends
 
-https://healthdata.gov/ -Health Data from US government
+https://healthdata.gov/ 
+-Health Data from US government
 
-https://developers.facebook.com/docs/graph-api -Facebook Graph API
+https://developers.facebook.com/docs/graph-api 
+-Facebook Graph API
 
-https://registry.opendata.aws/ -Amazon Web Services Open Data
+https://registry.opendata.aws/ 
+-Amazon Web Services Open Data
 
-https://data.europa.eu/euodp/en/data/ -European Union Open Data
+https://data.europa.eu/euodp/en/data/ 
+-European Union Open Data
 
-https://www.data.gov/ -US Government Open Data
+https://www.data.gov/ 
+-US Government Open Data
 
-https://datahub.io/search - Datahub.io
+https://datahub.io/search 
+-Datahub.io
 
-https://lod-cloud.net/ -The Linked Open Data Cloud
+https://lod-cloud.net/ 
+-The Linked Open Data Cloud
 
-https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm -Securities Exchange Commision Edgar Data
+https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm 
+-Securities Exchange Commision Edgar Data
 
-https://www.ssa.gov/OACT/babynames/limits.html -Social Security Baby Names Datasets
+https://www.ssa.gov/OACT/babynames/limits.html 
+-Social Security Baby Names Datasets
 
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Complete_Shakespeare_wordlist -Complete Shakespeare Word List
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Complete_Shakespeare_wordlist 
+-Complete Shakespearean Word List
 
-https://www.kaggle.com/datasets -Kaggle.com
+https://www.kaggle.com/datasets 
+-Kaggle.com
 
-https://snap.stanford.edu/data/ -Stanford Large Network Dataset
+https://snap.stanford.edu/data/ 
+-Stanford Large Network Dataset
 
-https://seer.cancer.gov/data-software/datasets.html -Cancer.gov
+https://seer.cancer.gov/data-software/datasets.html 
+-Cancer.gov
 
-https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html -NIH Datasets
+https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html 
+-NIH Datasets
 
-http://web.mta.info/developers/turnstile.html -New York City Metro Turnstile Datasets
+http://web.mta.info/developers/turnstile.html 
+-New York City Metro Turnstile Datasets
 
 ----------------------------------------
 Helpful or Interesting Libraries:
