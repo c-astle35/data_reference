@@ -46,10 +46,24 @@ Math:
 
 	Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
 
+Geographic Information Systems:
+	
+	Basic Geodesy - https://geodesy.noaa.gov/PUBS_LIB/basgeo.pdf
+
+Probability:
+	
+	Introduction to Probability - https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
+
+
+
 ----------------------------------------
 Useful Websites:
 
-http://www.rdatamining.com/
+http://www.rdatamining.com/ - R Data Mining
+
+https://open.umn.edu/opentextbooks/subjects - Open Textbook Library
+
+https://archive.org/ - Internet Archive
 
 ----------------------------------------
 DataSet Resources:
@@ -226,6 +240,13 @@ Python:
 		aList = [x for x in range(1,10,2)]
 
 ----------------------------------------
+
+Videos
+
+https://www.youtube.com/watch?v=JIo-V0beaBw - The Future of Your Personal Data - Privacy vs. Monetization
+
+----------------------------------------
+
 Meeting Schedule, Discussion Topics, Preparation Material and Additional Reads (if any):
 	
 	
