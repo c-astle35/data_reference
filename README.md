@@ -58,73 +58,91 @@ https://archive.ics.uci.edu/ml/index.php
 
 -UC-Irvine's Machine Learning Repository
 
+
 https://storage.googleapis.com/books/ngrams/books/datasetsv2.html 
 
 -Google N-Gram Viewer
+
 
 https://trends.google.com/trends/explore 
 
 -Google trends
 
+
 https://healthdata.gov/ 
 
 -Health Data from US government
+
 
 https://developers.facebook.com/docs/graph-api 
 
 -Facebook Graph API
 
+
 https://registry.opendata.aws/ 
 
 -Amazon Web Services Open Data
+
 
 https://data.europa.eu/euodp/en/data/ 
 
 -European Union Open Data
 
+
 https://www.data.gov/ 
 
 -US Government Open Data
+
 
 https://datahub.io/search 
 
 -Datahub.io
 
+
 https://lod-cloud.net/ 
 
 -The Linked Open Data Cloud
+
 
 https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm 
 
 -Securities Exchange Commision Edgar Data
 
+
 https://www.ssa.gov/OACT/babynames/limits.html 
 
 -Social Security Baby Names Datasets
+
 
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Complete_Shakespeare_wordlist 
 
 -Complete Shakespearean Word List
 
+
 https://www.kaggle.com/datasets 
 
 -Kaggle.com
+
 
 https://snap.stanford.edu/data/ 
 
 -Stanford Large Network Dataset
 
+
 https://seer.cancer.gov/data-software/datasets.html 
 
 -Cancer.gov
+
 
 https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html 
 
 -NIH Datasets
 
+
 http://web.mta.info/developers/turnstile.html 
 
 -New York City Metro Turnstile Datasets
+
 
 ----------------------------------------
 Helpful or Interesting Libraries:
@@ -228,6 +246,6 @@ NOTE: #c - we can use this to denote commments
 
 #c
 
-HELP WANTED: If someone would be willing to help, organization of datasets, programming techniques, idea types, libraries, etc. by topic could most certainly help in keeping this list going and somewhat clean.
+HELP WANTED: If someone would be willing to help, organization of datasets, programming techniques, idea types, libraries, etc. by topic could most certainly help in keeping this list going and somewhat clean. Ideas for an even better schema for this thing are also accepted.
 
 #c
