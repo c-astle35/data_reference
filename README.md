@@ -1,5 +1,5 @@
 # data_reference
-Helpful Resources for Using Data Among Other such Activites with Python
+Helpful Resources for Using Data Among Other such Activites with Python, etc.
 
 Python Data Science Club - Running List
 ----------------------------------------
@@ -180,7 +180,7 @@ Library Name, Uses, Subject Matter, etc. - Commments (if any)
 	-plotly - data visualization, animation, interactivity
 
 ----------------------------------------
-Possible Topics of Discovery and Project Ideas with Python:
+Possible Topics of Discovery and Project Ideas with Python, etc.:
 
 	-an overview of Linux commands and setting a Linux virtual machine
 
@@ -224,7 +224,7 @@ Programming Techniques:
 		aList = [x for x in range(1,10,2)]
 
 ----------------------------------------
-Meeting Schedule, Discussion Topics, Preparation Material and Additional Reads(if any):
+Meeting Schedule, Discussion Topics, Preparation Material and Additional Reads (if any):
 	
 	
 ----------------------------------------
