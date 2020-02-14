@@ -44,6 +44,8 @@ Progamming:
 		
 		The Hitchhiker's Guide to Python - https://docs.python-guide.org/
 		
+		Learning Pandas - https://riptutorial.com/Download/pandas.pdf
+		
 Math:
 
 	Probability:
