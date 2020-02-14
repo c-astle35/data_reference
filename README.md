@@ -95,80 +95,80 @@ Helpful or Interesting Libraries:
 
 Library Name, Uses, Subject Matter, etc. - Commments (if any)
 
--sqlite3 - databases
+	-sqlite3 - databases
 
--json - working with JSON files
+	-json - working with JSON files
 
--matplotlib - graphing, data visualization
+	-matplotlib - graphing, data visualization
 
--scikit-learn - machine learning
+	-scikit-learn - machine learning
 
--geopandas - pandas extention for geographic data such as .shp files
+	-geopandas - pandas extention for geographic data such as .shp files
 
--pandas - data wrangling, etc.
+	-pandas - data wrangling, etc.
 
--numpy - data wrangling, computation, etc.
+	-numpy - data wrangling, computation, etc.
 
--selenium - web-scraping
+	-selenium - web-scraping
 
--urllib2 - working with HTTP
+	-urllib2 - working with HTTP
 
--requests - working with HTTP
+	-requests - working with HTTP
 
--turtle - basically MS Paint with python
+	-turtle - basically MS Paint with python
 
--pyautogui - automation with python
+	-pyautogui - automation with python
 
--Py2PDF - working with PDF documents
+	-Py2PDF - working with PDF documents
 
--csv - working with csv files
+	-csv - working with csv files
 
--plotly - data visualization, animation, interactivity
+	-plotly - data visualization, animation, interactivity
 
 ----------------------------------------
 Possible Topics of Discovery and Project Ideas with Python:
 
--an overview of Linux commands and setting a Linux virtual machine
+	-an overview of Linux commands and setting a Linux virtual machine
 
--a possible venture into emacs
+	-a possible venture into emacs
 
--regular expessions
+	-regular expessions
 
--functional programming
+	-functional programming
 
--image processing such as with openCV
+	-image processing such as with openCV
 
--various ways to extract data from multiple file types including csv, json, etc.
+	-various ways to extract data from multiple file types including csv, json, etc.
 
--exporting data as csv, json, excel, html, xml, etc.
+	-exporting data as csv, json, excel, html, xml, etc.
 
--possible introduction to Django for web frameworks
+	-possible introduction to Django for web frameworks
 
--using sqlite3 for a review of a serverless database that's easy to use, a look at database theory and ERD models
+	-using sqlite3 for a review of a serverless database that's easy to use, a look at database theory and ERD models
 
--possible venture into MongoDB for an inroduction to document NoSQL databases
+	-possible venture into MongoDB for an inroduction to document NoSQL databases
 
--data wrangling with Pandas
+	-data wrangling with Pandas
 
--a look at various types of plots
+	-a look at various types of plots
 
--personal projects or scripts
+	-personal projects or scripts
 
--a look at statistical models that can be used with python libraries
+	-a look at statistical models that can be used with python libraries
 
--an overview of basic webscraping with review of html structure such as going through 
- wikipedia pages for images, tables, etc.
- 
- -programming with pyspark on Apache Spark
+	-an overview of basic webscraping with review of html structure such as going through 
+	 wikipedia pages for images, tables, etc.
+
+	 -programming with pyspark on Apache Spark
 
 ----------------------------------------
 
 Programming Techniques:
 
--How to Do a List Comprehension:
+	How to Do a List Comprehension:
 
-	aList = [x for x in range(1,10,2)]
-	
+		aList = [x for x in range(1,10,2)]
+
 ----------------------------------------
 NOTES and COMMENTS:
 
