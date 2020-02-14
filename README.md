@@ -188,6 +188,10 @@ Programming Techniques:
 		aList = [x for x in range(1,10,2)]
 
 ----------------------------------------
+Meeting Schedule and Discussion Topics:
+	
+	
+----------------------------------------
 NOTES and COMMENTS:
 
 #c Once again, please be willing to share any new material if your willing
