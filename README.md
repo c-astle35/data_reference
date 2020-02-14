@@ -33,8 +33,10 @@ Challenge:
 ----------------------------------------
 Books:
 
-Data Science:
+Statistics and Data Science:
 
+	Think Stats - http://greenteapress.com/thinkstats2/thinkstats2.pdf
+	
 	R for Data Science - https://r4ds.had.co.nz/index.html
 	
 Progamming:
