@@ -172,6 +172,6 @@ Programming Techniques:
 ----------------------------------------
 NOTES and COMMENTS:
 
-#c new material if your willing to add
+#c Once again, please be willing to share any new material if your willing
 
-#c NOTE: #c - we can use these to denote commments
+#c NOTE: #c - we can use this to denote commments
