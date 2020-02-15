@@ -48,6 +48,9 @@ Progamming:
 		
 		Learning Pandas - https://riptutorial.com/Download/pandas.pdf
 		
+	Microsoft Powershell:
+		Getting Started with Microsoft Powershell - http://www.docs.is.ed.ac.uk/skills/documents/3835/3835.pdf
+		
 Math:
 
 	Probability:
