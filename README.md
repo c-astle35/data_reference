@@ -77,10 +77,41 @@ https://www.reddit.com/r/statistics/ - Reddit Statistics
 ----------------------------------------
 DataSet Resources:
 
+FINANCIAAL:
+
+http://www.quantacademy.com/financial-data-sources/
+
+-Quant Academy
+
+
+https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm 
+
+-Securities Exchange Commision Edgar Data
+
+
+BIO:
+
 https://archive.ics.uci.edu/ml/index.php 
 
 -UC-Irvine's Machine Learning Repository
 
+
+https://healthdata.gov/ 
+
+-Health Data from US government
+
+
+https://seer.cancer.gov/data-software/datasets.html 
+
+-Cancer.gov
+
+
+https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html 
+
+-NIH Datasets
+
+
+GENERAL:
 
 https://storage.googleapis.com/books/ngrams/books/datasetsv2.html 
 
@@ -90,11 +121,6 @@ https://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 https://trends.google.com/trends/explore 
 
 -Google trends
-
-
-https://healthdata.gov/ 
-
--Health Data from US government
 
 
 https://developers.facebook.com/docs/graph-api 
@@ -127,11 +153,6 @@ https://lod-cloud.net/
 -The Linked Open Data Cloud
 
 
-https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm 
-
--Securities Exchange Commision Edgar Data
-
-
 https://www.ssa.gov/OACT/babynames/limits.html 
 
 -Social Security Baby Names Datasets
@@ -152,19 +173,10 @@ https://snap.stanford.edu/data/
 -Stanford Large Network Dataset
 
 
-https://seer.cancer.gov/data-software/datasets.html 
-
--Cancer.gov
-
-
-https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html 
-
--NIH Datasets
-
-
 http://web.mta.info/developers/turnstile.html 
 
 -New York City Metro Turnstile Datasets
+
 
 https://www.cdc.gov/nchs/nsfg/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnsfg.htm
 
