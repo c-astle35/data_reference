@@ -41,22 +41,22 @@ STATISTICS AND DATA SCIENCE:
 	
 PROGRAMMING:
 
-	Python:
+	PYTHON:
 		NSA Python Teaching Module - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 		
 		The Hitchhiker's Guide to Python - https://docs.python-guide.org/
 		
 		Learning Pandas - https://riptutorial.com/Download/pandas.pdf
 		
-	Microsoft Powershell:
+	MICROSOFT POWERSHELL:
 		Getting Started with Microsoft Powershell - http://www.docs.is.ed.ac.uk/skills/documents/3835/3835.pdf
 		
 MATH:
 
-	Probability:
+	PROBABILITY:
 		Introduction to Probability - https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
 	
-	Applied:
+	APPLIED:
 		Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
 
 GEOGRAPHIC INFORMATION SYSTEMS:
