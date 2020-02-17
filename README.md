@@ -1,9 +1,9 @@
 # data_reference
 Helpful Resources for Using Data Among Other such Activites with Python, etc.
 
-Python Data Science Club - Running List
+PYTHON DATA SCIENCE CLUB - RUNNING RESOURCE LIST
 ----------------------------------------
-Challenge: 
+CHALLENGE: 
 
 	Try to bring something new to the table:
 	
@@ -31,15 +31,15 @@ Challenge:
 			#c If you feel like there needs to be a subgenre in a genre, do that too for clarification #c
 
 ----------------------------------------
-Books:
+BOOKS:
 
-Statistics and Data Science:
+STATISTICS AND DATA SCIENCE:
 
 	Think Stats - http://greenteapress.com/thinkstats2/thinkstats2.pdf
 	
 	R for Data Science - https://r4ds.had.co.nz/index.html
 	
-Progamming:
+PROGRAMMING:
 
 	Python:
 		NSA Python Teaching Module - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
@@ -51,7 +51,7 @@ Progamming:
 	Microsoft Powershell:
 		Getting Started with Microsoft Powershell - http://www.docs.is.ed.ac.uk/skills/documents/3835/3835.pdf
 		
-Math:
+MATH:
 
 	Probability:
 		Introduction to Probability - https://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf
@@ -59,12 +59,12 @@ Math:
 	Applied:
 		Casino Math - http://www.walkerd.people.cofc.edu/360/BookChapters/CasinoMath2e.pdf
 
-Geographic Information Systems:
+GEOGRAPHIC INFORMATION SYSTEMS:
 	
 	Basic Geodesy - https://geodesy.noaa.gov/PUBS_LIB/basgeo.pdf
 
 ----------------------------------------
-Useful Websites:
+USEFUL WEBSITES:
 
 http://www.rdatamining.com/ - R Data Mining
 
@@ -75,9 +75,9 @@ https://archive.org/ - Internet Archive
 https://www.reddit.com/r/statistics/ - Reddit Statistics
 
 ----------------------------------------
-DataSet Resources:
+DATASET RESOURCES
 
-FINANCIAAL:
+FINANCIAL:
 
 http://www.quantacademy.com/financial-data-sources/
 
@@ -89,12 +89,7 @@ https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm
 -Securities Exchange Commision Edgar Data
 
 
-BIO:
-
-https://archive.ics.uci.edu/ml/index.php 
-
--UC-Irvine's Machine Learning Repository
-
+BIOLOGICAL:
 
 https://healthdata.gov/ 
 
@@ -112,6 +107,10 @@ https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html
 
 
 GENERAL:
+
+https://archive.ics.uci.edu/ml/index.php 
+
+-UC-Irvine's Machine Learning Repository
 
 https://storage.googleapis.com/books/ngrams/books/datasetsv2.html 
 
@@ -183,9 +182,9 @@ https://www.cdc.gov/nchs/nsfg/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%
 -National Survey for Family Growth
 
 ----------------------------------------
-Helpful or Interesting Libraries:
+HELPFUL OR INTERESTING LIBRARIES
 
-Library Name, Uses, Subject Matter, etc. - Commments (if any)
+LIBRARY NAME, USES, SUBJECT MATTER, ETC. - COMMMENTS (IF ANY):
 
 	-sqlite3 - databases
 
@@ -226,7 +225,7 @@ Library Name, Uses, Subject Matter, etc. - Commments (if any)
 	-os - pathname manipulations
 
 ----------------------------------------
-Possible Topics of Discovery and Project Ideas with Python, etc.:
+POSSIBLE TOPICS AND PROJECT IDEAS WITH PYTHON, ETC.
 	
 	-exercises demonstrating numpy's cabilities with linear algebraic computations
 	
@@ -266,24 +265,21 @@ Possible Topics of Discovery and Project Ideas with Python, etc.:
 	 -programming with pyspark on Apache Spark
 
 ----------------------------------------
+PROGRAMMING TECHNIQUES
 
-Programming Techniques:
-
-Python:
+PYTHON:
 
 	How to Do a List Comprehension:
 
 		aList = [x for x in range(1,10,2)]
 
 ----------------------------------------
-
-Videos
+VIDEOS
 
 https://www.youtube.com/watch?v=f1JPjLCxPFQ - Designing Technology to Restore Privacy
 
 ----------------------------------------
-
-Meeting Schedule, Discussion Topics, Preparation Material and Additional Reads (if any):
+MEETING SCHEDULE, DISCUSSION TOPICS, PREPARATION MATERIAL AND ADDITIONAL READS (IF ANY)
 	
 	
 ----------------------------------------
