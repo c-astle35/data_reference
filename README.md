@@ -76,7 +76,8 @@ https://www.reddit.com/r/statistics/ - Reddit Statistics
 
 https://wiki.python.org/moin/PythonImplementations - Python Implementations
 
-https://www.ics.uci.edu/~brgallar/index.html#home - Helpful Classnotes Provided by a Student at UC - Irvine on Python, Data Structures, Python Virtual Machine, etc.
+https://www.ics.uci.edu/~brgallar/index.html#home 
+- Helpful Class Notes Provided by a Student at UC-Irvine on Python, Data Structures, Python Virtual Machine, etc.
 
 ----------------------------------------
 DATASET RESOURCES
