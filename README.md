@@ -74,6 +74,10 @@ https://archive.org/ - Internet Archive
 
 https://www.reddit.com/r/statistics/ - Reddit Statistics
 
+https://wiki.python.org/moin/PythonImplementations - Python Implementations
+
+https://www.ics.uci.edu/~brgallar/index.html#home - Helpful Classnotes Provided by a Student at UC - Irvine on Python, Data Structures, Python Virtual Machine, etc.
+
 ----------------------------------------
 DATASET RESOURCES
 
@@ -272,6 +276,39 @@ PYTHON:
 	How to Do a List Comprehension:
 
 		aList = [x for x in range(1,10,2)]
+	
+	How to Create a Tuple of Tuples:
+		rec0 = ("Jim", 91)
+		rec1 = ("Samantha", 34)
+		rec2 = ("Tim", 25)
+		
+		all_rec = rec0, rec1, rec2
+		#creates (("Jim", 91), ("Samantha", 34), ("Tim", 25))
+		
+	How to Create Sets and FrozenSets:
+		set_one = set()
+		f_set = frozenset('a', 'b', 'c')
+		
+		#note: set() are mutable (editable) while frozensets are not
+		set_one.add('a')
+		#{'a'}
+		
+	Perform Intersection, Difference, and Union on Sets:
+		#a refresher on set theory within the domain of mathematics could help here
+		
+		set_one = ([1,2,3,4])
+		set_two = ([1,3,4,5])
+		
+		set_one.intersection(set_two)
+		#{1,3,4}
+		
+		set_one.difference(set_two)
+		#{2}
+		
+		set_one.union(set_two)
+		#{1,2,3,4,5}
+		
+		
 
 ----------------------------------------
 VIDEOS
