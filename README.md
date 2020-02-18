@@ -230,6 +230,7 @@ LIBRARY NAME, USES, SUBJECT MATTER, ETC. - COMMMENTS (IF ANY):
 
 ----------------------------------------
 POSSIBLE TOPICS AND PROJECT IDEAS WITH PYTHON, ETC.
+	-performing data analysis with copyright-free books such as the works of Shakespeare via Project Gutenberg
 	
 	-exercises demonstrating numpy's cabilities with linear algebraic computations
 	
